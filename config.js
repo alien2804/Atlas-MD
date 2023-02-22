@@ -11,10 +11,10 @@
 /                                                                                   / 
 /-----------------------------------------------------------------------------------/
 / Author and Main Developer: FantoX                                                 /
-/ Github: https://github.com/FantoX001/Atlas-MD                                     /
-/ Powered By: Team ATLAS                                                            /
+/ Github: https://github.com/alien2804/Atlas-MD                                     /
+/ Powered By: Team ALIEN                                                            /
 /-----------------------------------------------------------------------------------/
-/             Meet Team ATLAS who holds all rights to this repository:              /
+/             Meet Team ALIEN who holds all rights to this repository:              /
 /                                                                                   /
 / 1. Pratyush - https://github.com/pratyush4932                                     /
 / 2. Ahmii - https://github.com/Ahmii-kun                                          /               
@@ -44,8 +44,8 @@ global.sessionId = process.env.SESSION_ID || "ok";
 global.prefa = process.env.PREFIX || "-";
 global.tenorApiKey =
   process.env.TENOR_API_KEY || "AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c";
-global.packname = process.env.PACKNAME || `Atlas MD`;
-global.author = process.env.AUTHOR || "by: Team Atlas";
+global.packname = process.env.PACKNAME || `Alien Bot`;
+global.author = process.env.AUTHOR || "by: Team Alien";
 global.port = process.env.PORT || "8000";
 
 module.exports = {
